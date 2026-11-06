@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Astronomica.API/Astronomica.API.csproj" />
+  <Project Path="Datos/Datos.csproj" />
+  <Project Path="Modelos/Modelos.csproj" />
+  <Project Path="Servicios/Servicios.csproj" />
+</Solution>

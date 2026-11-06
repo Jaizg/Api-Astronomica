@@ -1,0 +1,6 @@
+@Astronomica.API_HostAddress = http://localhost:5118
+
+GET {{Astronomica.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
